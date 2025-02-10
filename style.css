@@ -1,0 +1,21 @@
+* {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+h2{
+    color: navy;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+body{ margin: 100px;}
+
+h1 {background-color: black;
+     color: white;
+    text-align: center;}
